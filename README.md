@@ -9,8 +9,6 @@ Since I still haven't done that :)
 Now I'm commiting from VScode
 Which is pretty cool, right?
 
-### D Soonr than soon
-
 ## Desenvolvimento
 
 1. Abrir index.html pleassee
