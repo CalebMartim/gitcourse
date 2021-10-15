@@ -16,3 +16,5 @@ Which is pretty cool, right?
 1. Abrir index.html pleassee
 
 2. Abrir de novo, eu acho
+
+3. okkkkk de novo aqui I guess
