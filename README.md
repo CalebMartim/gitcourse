@@ -10,3 +10,9 @@ Now I'm commiting from VScode
 Which is pretty cool, right?
 
 ### D Soonr than soon
+
+## Desenvolvimento
+
+1. Abrir index.html pleassee
+
+2. Abrir de novo, eu acho
