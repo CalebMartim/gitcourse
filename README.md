@@ -1,4 +1,4 @@
-(Este repositório deve ser ignorado, eu só estive praticando comandos ensinados neste curso no YouTube https://youtu.be/RGOj5yH7evk )
+# (Este repositório deve ser ignorado, eu só estive praticando comandos ensinados neste curso no YouTube https://youtu.be/RGOj5yH7evk )
 
 # HI
 
